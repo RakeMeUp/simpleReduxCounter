@@ -8,4 +8,5 @@ I did not make a live site for it, as it has hardly any features, only showcasin
 
 ### The App uses:
 - Vite
+- React
 - Redux
